@@ -8,6 +8,8 @@ There are several animations during the transition, each has a different timing 
 * Animate cornerRadius of top-left and top-right corner.
 * Animate the blur effect which positions over the rootViewController's mainView
 
+##### The animation transition is interuptible and interactive
+
 ## Demo
 
 
