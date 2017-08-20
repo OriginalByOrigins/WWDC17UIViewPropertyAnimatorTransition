@@ -1,6 +1,6 @@
 # WWDC17UIViewPropertyAnimatorTransition
 
-Inspired by ![WWDC 2017 Animation Session](https://developer.apple.com/videos/play/wwdc2017/230/), I created this app that uses *UIViewPropertyAnimator* to drive the animation.<br />
+Inspired by <a href="https://developer.apple.com/videos/play/wwdc2017/230/">WWDC 2017 Animation Session</a>, I created this app that uses *UIViewPropertyAnimator* to drive the animation.<br />
 There are several animations during the transition, each has a different timing function:
 
 * Animate the comment section view
